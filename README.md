@@ -1,0 +1,2 @@
+# OpenVINO2022_on_Colab_Samples
+OpenVINO 2022範例運行於Google Colab環境
