@@ -14,7 +14,7 @@ Intel Pre-Trained Model:
 * face-detection-0205
 * face-detection-0206
 點擊連結可直接運行  
-https://colab.research.google.com/github/OmniXRI/OpenVINO2022_on_Colab_Samples/blob/main/OpenVINO_Image_Classification_on_Colab.ipynb
+https://colab.research.google.com/github/OmniXRI/OpenVINO2022_on_Colab_Samples/main/OpenVINO_Face_Detection_on_Colab.ipynb
 ![](https://github.com/OmniXRI/OpenVINO2022_on_Colab_Samples/blob/main/images/face_detection_result_01.jpg)  
 
 **OpenVINO_Face_Detection_on_Colab_2.ipynb**  
@@ -28,5 +28,5 @@ Intel Pre-Trained Model:
 Public Pre-Trained Model:  
 * face-detection-retail-0044
 點擊連結可直接運行  
-https://colab.research.google.com/github/OmniXRI/OpenVINO2022_on_Colab_Samples/blob/main/OpenVINO_Image_Classification_on_Colab.ipynb
+https://colab.research.google.com/github/OmniXRI/OpenVINO2022_on_Colab_Samples/main/OpenVINO_Face_Detection_on_Colab_2.ipynb
 ![](https://github.com/OmniXRI/OpenVINO2022_on_Colab_Samples/blob/main/images/face_detection_result_01.jpg)  
