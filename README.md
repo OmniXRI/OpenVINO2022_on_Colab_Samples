@@ -28,7 +28,7 @@ Intel Pre-Trained Model:
 * face-detection-adas-0001
 * face-detection-retail-0004
 * face-detection-retail-0005  
-* 
+
 Public Pre-Trained Model:  
 * face-detection-retail-0044  
 
