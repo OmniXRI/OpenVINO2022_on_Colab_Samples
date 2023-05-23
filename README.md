@@ -37,7 +37,8 @@ https://colab.research.google.com/github/OmniXRI/OpenVINO2022_on_Colab_Samples/b
 ![](https://github.com/OmniXRI/OpenVINO2022_on_Colab_Samples/blob/main/images/face_detection_result_01.jpg)  
 
 **OpenVINO_Pose_Estimation_on_Colab.ipynb**  
-參考 OpenVINO Notebooks 402-pose-estimation.ipynb 改寫，本程式主要用於一般姿態估測模型，採COCO定義之18個關鍵點，輸入影像結構為 [B, C, H, W] （1, 3, 256, 456)，輸出為 Mconv7_stage2_L1（1, 38, 32, 57）及Mconv7_stage2_L2（1, 19, 32, 57）。 目前僅支援 human-pose-estimation-0001 ，其它模型則由於 output layer 定義不同暫無法使用。[【Intel官網完整說明】](https://docs.openvino.ai/latest/notebooks/402-pose-estimation-with-output.html)  
+參考 OpenVINO Notebooks 402-pose-estimation.ipynb 改寫，本程式主要用於一般姿態估測模型，採COCO定義之18個關鍵點，輸入影像結構為 [B, C, H, W] （1, 3, 256, 456)，輸出為 Mconv7_stage2_L1（1, 38, 32, 57）及Mconv7_stage2_L2（1, 19, 32, 57）。 目前僅支援 human-pose-estimation-0001 ，其它模型則由於 output layer 定義不同暫無法使用。  
+原範例可支援網路攝影機，但這裡僅示範使用影片檔案輸入。[【Intel官網完整說明】](https://docs.openvino.ai/latest/notebooks/402-pose-estimation-with-output.html)  
 
 點擊連結可直接運行  
 https://colab.research.google.com/github/OmniXRI/OpenVINO2022_on_Colab_Samples/blob/main/OpenVINO_Pose_Estimation_on_Colab.ipynb
