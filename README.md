@@ -1,6 +1,6 @@
 # OpenVINO2022_on_Colab_Samples
 
-以下皆是以Intel OpenVINO 2022.3運行於Google Colab環境的範例，主要參考OpenVINO Open Model Zoo Demos 及 Notebooks。
+以下皆是以Intel OpenVINO 2022.3運行於Google Colab環境的範例，主要參考OpenVINO Open Model Zoo Demos 及 Notebooks。  
 註：經測試以下範例亦可在 OpenVINO 2023.1運行，程式預設安裝OpenVINO最新版本（2023.11.16更新）
 
 **OpenVINO_Image_Classification_on_Colab.ipynb**   
